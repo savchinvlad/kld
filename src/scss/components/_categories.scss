@@ -23,6 +23,13 @@
       transition: background-color 0.1s ease-in-out;
       @include noselect();
 
+      @media (max-width: 768px) {
+        padding: 3px 9px;
+        border-radius: 8px;
+        margin-right: 4px;
+        font-size: 10px;
+      }
+
       &:hover {
         background-color: darken(#f9f9f9, 2%);
       }

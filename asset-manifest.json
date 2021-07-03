@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kld/static/css/main.c51121c7.chunk.css",
+    "main.js": "/kld/static/js/main.d416f12f.chunk.js",
+    "main.js.map": "/kld/static/js/main.d416f12f.chunk.js.map",
+    "runtime-main.js": "/kld/static/js/runtime-main.1f7a2d98.js",
+    "runtime-main.js.map": "/kld/static/js/runtime-main.1f7a2d98.js.map",
+    "static/js/2.adf6a9fb.chunk.js": "/kld/static/js/2.adf6a9fb.chunk.js",
+    "static/js/2.adf6a9fb.chunk.js.map": "/kld/static/js/2.adf6a9fb.chunk.js.map",
+    "index.html": "/kld/index.html",
+    "static/css/main.c51121c7.chunk.css.map": "/kld/static/css/main.c51121c7.chunk.css.map",
+    "static/js/2.adf6a9fb.chunk.js.LICENSE.txt": "/kld/static/js/2.adf6a9fb.chunk.js.LICENSE.txt",
+    "static/media/app.scss": "/kld/static/media/ProximaNova-Regular.d97f8f32.eot",
+    "static/media/empty-cart.db905d1f.png": "/kld/static/media/empty-cart.db905d1f.png",
+    "static/media/ico.26841e06.png": "/kld/static/media/ico.26841e06.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f7a2d98.js",
+    "static/js/2.adf6a9fb.chunk.js",
+    "static/css/main.c51121c7.chunk.css",
+    "static/js/main.d416f12f.chunk.js"
+  ]
+}
